@@ -117,11 +117,11 @@ boolean isAdult = (age >= 18);  // true
 #### **Logical Operators**
 Used to perform logical operations on boolean expressions.
 
-| Operator | Description           | Example             |
-|----------|-----------------------|---------------------|
+| Operator | Description           | Example              |
+|----------|-----------------------|----------------------|
 | `&&`     | Logical AND           | `(a > b) && (c > d)` |
-| `||`     | Logical OR            | `(a > b) || (c > d)` |
-| `!`      | Logical NOT           | `!(a > b)`         |
+| `\|\|`   | Logical OR            | `(a > b) \|\| (c > d)` |
+| `!`      | Logical NOT           | `!(a > b)`           |
 
 #### **Example**
 ```java
