@@ -1,4 +1,4 @@
-## For Day 1 - basics of Java: **Control Flow and Decision-Making**
+## Day 2 - basics of Java: **Control Flow and Decision-Making**
 This includes `if` statements, `switch` statements, loops (`for`, `while`, and `do-while`), and control flow mechanisms like `break`, `continue`, and `return`.
 
 ---

@@ -1,4 +1,4 @@
-## For Day 1 - basics of Java: **variables, data types, and operators**
+## Day 1 - basics of Java: **variables, data types, and operators**
 
 ---
 
